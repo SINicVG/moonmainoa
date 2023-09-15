@@ -3,7 +3,7 @@
       "id": "64535c074e4e1754265a7bfb",
       "applicationName": "AMBULANT",
       "title": "Wartung",
-      "message": "Wir arbeiten schnellst möglich an einer Lösung.",
+      "message": "Wir arbeiten schnellstmöglich an einer Lösung.",
       "start": "2023-09-13T17:40:18.875",
       "end": "2023-09-15T11:40:18.875",
       "active": true
@@ -12,7 +12,7 @@
       "id": "64535c09cd53277f8f80a79e",
       "applicationName": "AUTO",
       "title": "Wartung",
-      "message": "Wir arbeiten schnellst möglich an einer Lösung.",
+      "message": "Wir arbeiten schnellstmöglich an einer Lösung.",
       "start": "2023-09-13T17:40:18.875",
       "end": "2023-09-15T11:40:18.875",
       "active": true
@@ -21,7 +21,7 @@
       "id": "64535c094e4e1754265a7bfc",
       "applicationName": "BEIHILFE",
       "title": "Wartung",
-      "message": "Wir arbeiten schnellst möglich an einer Lösung.",
+      "message": "Wir arbeiten schnellstmöglich an einer Lösung.",
       "start": "2023-09-13T17:40:18.875",
       "end": "2023-09-15T11:40:18.875",
       "active": true
@@ -30,7 +30,7 @@
       "id": "64535c0acd53277f8f80a79f",
       "applicationName": "FAHRRAD",
       "title": "Wartung",
-      "message": "Wir arbeiten schnellst möglich an einer Lösung.",
+      "message": "Wir arbeiten schnellstmöglich an einer Lösung.",
       "start": "2023-09-13T17:40:18.875",
       "end": "2023-09-15T11:40:18.875",
       "active": true
@@ -39,7 +39,7 @@
       "id": "64535c0a4e4e1754265a7bfd",
       "applicationName": "GRENZ",
       "title": "Wartung",
-      "message": "Wir arbeiten schnellst möglich an einer Lösung.",
+      "message": "Wir arbeiten schnellstmöglich an einer Lösung.",
       "start": "2023-09-13T17:40:18.875",
       "end": "2023-09-15T11:40:18.875",
       "active": true
@@ -48,7 +48,7 @@
       "id": "64535c0acd53277f8f80a7a0",
       "applicationName": "HAFTPFLICHT",
       "title": "Wartung",
-      "message": "Wir arbeiten schnellst möglich an einer Lösung.",
+      "message": "Wir arbeiten schnellstmöglich an einer Lösung.",
       "start": "2023-09-13T17:40:18.875",
       "end": "2023-09-15T11:40:18.875",
       "active": true
@@ -57,7 +57,7 @@
       "id": "64535c0b4e4e1754265a7bfe",
       "applicationName": "HAUSRAT",
       "title": "Wartung",
-      "message": "Wir arbeiten schnellst möglich an einer Lösung.",
+      "message": "Wir arbeiten schnellstmöglich an einer Lösung.",
       "start": "2023-09-13T17:40:18.875",
       "end": "2023-09-15T11:40:18.875",
       "active": true
@@ -66,7 +66,7 @@
       "id": "64535c0bcd53277f8f80a7a1",
       "applicationName": "MOPED",
       "title": "Wartung",
-      "message": "Wir arbeiten schnellst möglich an einer Lösung.",
+      "message": "Wir arbeiten schnellstmöglich an einer Lösung.",
       "start": "2023-09-13T17:40:18.875",
       "end": "2023-09-15T11:40:18.875",
       "active": true
@@ -75,7 +75,7 @@
       "id": "64535c0c4e4e1754265a7bff",
       "applicationName": "MOTORRAD",
       "title": "Wartung",
-      "message": "Wir arbeiten schnellst möglich an einer Lösung.",
+      "message": "Wir arbeiten schnellstmöglich an einer Lösung.",
       "start": "2023-09-13T17:40:18.875",
       "end": "2023-09-15T11:40:18.875",
       "active": true
@@ -84,7 +84,7 @@
       "id": "64535c0ccd53277f8f80a7a2",
       "applicationName": "RISIKO",
       "title": "Wartung",
-      "message": "Wir arbeiten schnellst möglich an einer Lösung.",
+      "message": "Wir arbeiten schnellstmöglich an einer Lösung.",
       "start": "2023-09-13T17:40:18.875",
       "end": "2023-09-15T11:40:18.875",
       "active": true
@@ -93,7 +93,7 @@
       "id": "64535c0d4e4e1754265a7c00",
       "applicationName": "STATIONAER",
       "title": "Wartung",
-      "message": "Wir arbeiten schnellst möglich an einer Lösung.",
+      "message": "Wir arbeiten schnellstmöglich an einer Lösung.",
       "start": "2023-09-13T17:40:18.875",
       "end": "2023-09-15T11:40:18.875",
       "active": true
@@ -102,7 +102,7 @@
       "id": "64535c0dcd53277f8f80a7a3",
       "applicationName": "STERBEGELD",
       "title": "Wartung",
-      "message": "Wir arbeiten schnellst möglich an einer Lösung.",
+      "message": "Wir arbeiten schnellstmöglich an einer Lösung.",
       "start": "2023-09-13T17:40:18.875",
       "end": "2023-09-15T11:40:18.875",
       "active": true
@@ -111,7 +111,7 @@
       "id": "64535c0e4e4e1754265a7c01",
       "applicationName": "UNFALL",
       "title": "Wartung",
-      "message": "Wir arbeiten schnellst möglich an einer Lösung.",
+      "message": "Wir arbeiten schnellstmöglich an einer Lösung.",
       "start": "2023-09-13T17:40:18.875",
       "end": "2023-09-15T11:40:18.875",
       "active": true
@@ -120,7 +120,7 @@
       "id": "64535c0fcd53277f8f80a7a4",
       "applicationName": "ZAHN",
       "title": "Wartung",
-      "message": "Wir arbeiten schnellst möglich an einer Lösung.",
+      "message": "Wir arbeiten schnellstmöglich an einer Lösung.",
       "start": "2023-09-13T17:40:18.875",
       "end": "2023-09-15T11:40:18.875",
       "active": true
